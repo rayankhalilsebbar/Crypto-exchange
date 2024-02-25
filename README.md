@@ -1,3 +1,10 @@
+# Crypto exchange app (curve.fi clone)
+
+App made with Node.JS / React / Motoko / ICP. Studied from app brewery.
+
+# Demo
+![Demo](demo.gif)
+
 # Check your Balance
 
 1. Find out your principal id:
